@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "mediaservice-samples", "mediaservice-samples.njsproj", "{F4E71F84-5968-4394-8545-3D306D6BC109}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4E71F84-5968-4394-8545-3D306D6BC109}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4E71F84-5968-4394-8545-3D306D6BC109}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4E71F84-5968-4394-8545-3D306D6BC109}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4E71F84-5968-4394-8545-3D306D6BC109}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {70A91388-147B-4C36-AA39-3CE2DC097328}
+	EndGlobalSection
+EndGlobal
